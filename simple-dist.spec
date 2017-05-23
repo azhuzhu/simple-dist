@@ -1,4 +1,4 @@
-Name:           test
+Name:           simple-dist
 Version:        1
 Release:        1%{?dist}
 Summary:        Testing source arch header fields
